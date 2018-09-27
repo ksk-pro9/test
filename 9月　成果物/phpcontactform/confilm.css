@@ -1,0 +1,19 @@
+form{float:left;
+    margin-right:15px;
+}
+
+.button1{border:1px solid lightgrey;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px grey;
+}
+
+.button2{border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:darkorange;
+    border-radius:5px;
+    border-bottom:solid 2px #E08600;
+}
